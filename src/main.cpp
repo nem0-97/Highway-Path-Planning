@@ -202,7 +202,7 @@ int main() {
     int lanes=3;//number lanes going in proper direction
     double laneWidth=4;//lanes are 4m wide
     double speedLim=49.5;//speed limit
-    double maxAcc=.5;//speed limit
+    double maxAcc=.224;//acceleration limit
     
     double jerk=.1;//play with this more can probably be higher
     
